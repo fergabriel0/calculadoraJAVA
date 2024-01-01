@@ -10,12 +10,6 @@ Radiciação
 Potência  
 Vírgula  
 
-### Tela:
-Botões para as novas funções  
-Reorganizar Layout  
-Adicionar feedbacks visuais  
-
 ### Recursos adicionais: 
 Imprimir nota com histórico de contas feitas  
 Visualizador de histórico  
-Temas  
